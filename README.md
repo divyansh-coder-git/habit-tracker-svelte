@@ -5,7 +5,6 @@ A modern, responsive web application for tracking daily habits built with **Svel
 ![Svelte](https://img.shields.io/badge/Svelte-5-orange?logo=svelte)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-blue?logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -194,12 +193,6 @@ Theme preference is remembered and applied on page load. The app detects and res
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -208,22 +201,6 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 🐛 Issues & Bug Reports
-
-Found a bug? Please [open an issue](https://github.com/divyansh-coder-git/habit-tracker-svelte/issues) with:
-- Detailed description
-- Steps to reproduce
-- Expected vs actual behavior
-- Browser and OS information
-
----
-
-## 💬 Feedback
-
-Have suggestions? Open a discussion or issue - I'd love to hear your ideas!
 
 ---
 
